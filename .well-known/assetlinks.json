@@ -1,5 +1,26 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "com.example.maxis_ekelas",
-               "sha256_cert_fingerprints": ["98:1D:71:4C:1F:93:F1:97:BB:DD:B8:B8:99:85:64:82:1B:6E:4E:B4:E8:37:2A:92:8E:98:1C:F9:46:BB:21:3E"] }
-}]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "my.maxis.ekelas",
+      "sha256_cert_fingerprints": [
+        "73:53:FB:3A:B8:1D:7E:B0:05:C6:04:A1:24:31:26:26:A2:1B:DD:4A:E1:42:A1:7D:A5:80:11:B7:4A:7F:AE:A9"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "my.maxis.ekelas",
+      "sha256_cert_fingerprints": [
+        "BF:CA:AA:C2:D9:C4:48:32:87:DB:39:08:0C:E0:79:22:C5:0C:58:20:DD:DE:92:6D:E7:6D:9A:1C:9F:E4:E6:A8"
+      ]
+    }
+  }
+]
